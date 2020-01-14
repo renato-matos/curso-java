@@ -9,6 +9,9 @@ public class Program {
 
 	public static void main(String[] args) {
 		
+		
+		//teste do github
+		
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		
